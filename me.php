@@ -1,0 +1,3 @@
+<?php
+$send=""// your email
+?>
